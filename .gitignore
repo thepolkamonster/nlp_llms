@@ -2,3 +2,4 @@ Fine-Tuning-LLM-with-HuggingFace-main
 venv
 bert-based_uncased_sentiment_model
 bert_base_train_dir
+temp_trainer
